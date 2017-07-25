@@ -1,0 +1,19 @@
+The best advice I can give you is to start studying at the contracts created by the OpenZeppelin project. 
+
+They provide several reviewed contracts that are used as base for projects with a public ICO. 
+
+For more complex type of tokens you can take a look at TokenMarketNet ICO repository.
+
+Also you should start with a framework like Truffle or Populus, that make creating, testing and deploying contracts much easier.
+
+But you should try to keep up to date with current best practices, at any time a new vulnerability can appear. 
+
+And the current best practices sometimes changes every month.
+
+You will have to start publiciting your project and how users will get rewards. 
+
+Talk to the community, exchanges, potential investors. 
+
+Then launch your token, if the potential investors believe your project is good they will invest and acquire your tokens. 
+
+Exchanges will start trading your token if it is popular enough. 
