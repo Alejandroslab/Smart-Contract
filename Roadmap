@@ -1,3 +1,22 @@
-1. Try in Ethereum Wallet (ways to get the JSON interface?)
+TO DO LIST TO BAKE THE CAKE 
 
-2. Fix the code (not working the transfer function and the supply)
+WATCH
+1. Try in another Parity with Kovan. -- DONE (works but functions of transfer and also SUPPLY doesn't work. Something is missing? Of course.)
+2. Try in Ethereum Wallet (missing JSON interface of the token: ways to get the JSON interface from parity?)
+
+DEVELOPMENT
+1. Fix the code (not working the transfer function and the supply) (STUDY SOLIDITY! Solidity is derived from Javascript. Or just try to understand the code written in the noob official guides from Parity or Ethereum)
+
+  -Trying with ethereum code the one from official website guide (not working functions)
+  -Tryng with snippets of Parity (https://github.com/paritytech/parity/tree/master/js/src/contracts/snippets)
+  (Main repository: https://github.com/paritytech/parity)
+    (Seems the same: not working function)
+    
+//Why it doesn't appear the possibility to choose the token, a part of eth, in Parity? Is it a problem/feature of Parity?//
+
+2. Check ERC20 Interface standard (https://github.com/ethereum/EIPs/issues/20)
+
+
+
+
+
