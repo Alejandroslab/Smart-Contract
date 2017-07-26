@@ -1,0 +1,16 @@
+first plug in the exec in terminal (in order to get the correct directory where to invoke parity ) then type:
+
+parity —-chain kovan —-pruning archive
+
+or (it’s the same):
+
+parity —-chain=kovan —-pruning archive
+
+(without pruning archive it will not work)
+
+to change to main net :
+
+parity —-chain homestead
+
+
+
