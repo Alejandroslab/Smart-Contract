@@ -7,6 +7,8 @@ A sort of Hello World for cryptos :)
 
 Anyways it's just a try.
 
+Alejandroslab 07/23/2017
+
 # Parity + Kovan
 
 I dowloaded Parity and then changed the chain from Homestead to Kovan (no Reptest for safe).
