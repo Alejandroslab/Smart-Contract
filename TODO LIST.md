@@ -8,8 +8,8 @@ WATCH
 DEVELOPMENT
 1. Fix the code (not working the transfer function and the supply) (STUDY SOLIDITY! Solidity is derived from Javascript. Or just try to understand the code written in the noob official guides from Parity or Ethereum)
 
-  -Trying with ethereum code the one from official website guide (not working functions)
-  -Tryng with snippets of Parity (https://github.com/paritytech/parity/tree/master/js/src/contracts/snippets)
+  -Trying with ethereum code the one from official website guide (not working functions
+  -Trying with snippets of Parity (https://github.com/paritytech/parity/tree/master/js/src/contracts/snippets)
   (Main repository: https://github.com/paritytech/parity)
     (Seems the same: not working function)
     
