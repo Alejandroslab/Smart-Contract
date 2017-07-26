@@ -1,4 +1,4 @@
-# The Creation of a Token. An attempt.
+# Creating a Token/Coin. An attempt.
 
 The aim of this work is to create a simple and basic token on Ethereum Blockchain. 
 First the work will be done on Kovan Testnet and then will be deployed in the main net if there are not issues to fix.
