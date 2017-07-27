@@ -1,0 +1,1 @@
+sudo ~ parity --chain kovan --pruning archive
