@@ -1,16 +1,16 @@
-# Creating a Token/Coin. An attempt.
+# Creating a Token. An attempt.
 
 The aim of this work is to create a simple and basic token on Ethereum Blockchain. 
-First the work will be done on Kovan Testnet and then will be deployed in the main net if there are not issues to fix.
+First the work will be done on Kovan Testnet and then it could be deployed in the main net.
 
-A sort of Hello World for cryptos :)
+A sort of Hello World :)
 
-Anyways it's just a try.
-
-Alejandroslab 07/23/2017
+Just a try.
 
 # Parity + Kovan
 
-I dowloaded Parity and then changed the chain from Homestead to Kovan (no Reptest for safe).
+Got Parity and then changed the chain from Homestead to Kovan (no Reptest for safe).
+
+Alejandroslab 07/23/2017
 
 
