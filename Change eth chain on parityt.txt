@@ -1,16 +1,17 @@
 first plug in the exec in terminal (in order to get the correct directory where to invoke parity ) then type:
 
-parity —-chain kovan —-pruning archive
+parity —-chain kovan —-no-warp
 
 or (it’s the same):
 
-parity —-chain=kovan —-pruning archive
+parity —-chain=kovan —-no-warp
 
-(without pruning archive it will not work)
+You could use operation mode --pruning archive but you will need at least 326 gb of space for the sync of blockchain.
+Using --no-warp mode decrease the size of blockchain to about 20-30 gb of space.
 
-to change to main net :
+to change back to main net :
 
 parity —-chain homestead
 
-
+(here you can use --no-warp here too)
 
