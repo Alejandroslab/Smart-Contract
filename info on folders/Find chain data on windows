@@ -1,8 +1,0 @@
-You can find your chain data downloaded here:
-
-%LOCALAPPDATA%/Parity/Ethereum/chains/<network>
-
-(Just copy and paste on address bar)
-
-It was moved to this location from the original location of %APPDATA%/* because AppData/Roaming (which is where %APPDATA% points) is synced over the network on login/logout while AppData/Local (where %LOCALAPPDATA% points) is not.
-
